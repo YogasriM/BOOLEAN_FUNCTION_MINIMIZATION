@@ -38,7 +38,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by: RegisterNumber:*/
 ![Screenshot 2024-12-04 081702](https://github.com/user-attachments/assets/5d2eb5ec-36a8-4ab2-834d-3f7a54955b82)
 
-![Screenshot 2024-12-04 091140](https://github.com/user-attachments/assets/3df68eca-800a-499c-97ff-0c0d3b0f9a72)
+![Screenshot 2024-12-04 091700](https://github.com/user-attachments/assets/f2004c45-8a83-475b-8b47-2bfeec9a328c)
 
 
 **RTL realization**
